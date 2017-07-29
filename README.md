@@ -3,3 +3,9 @@
 
 ## Getting Started
 - npm install all dependencies
+
+## Built with
+- Node.js, ExpressJS, PostgreSQL, Sequelize.
+
+## Acknowledgments
+- James Muturi for the excellent tutorial
