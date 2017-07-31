@@ -3,6 +3,7 @@
 
 ## Getting Started
 - npm install all dependencies
+- start server with $npm run start:dev
 
 ## Built with
 - Node.js, ExpressJS, PostgreSQL, Sequelize.
